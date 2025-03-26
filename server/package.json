@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.8.3",
     "coinpayments": "^2.1.3",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
