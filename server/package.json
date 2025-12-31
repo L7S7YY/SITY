@@ -9,7 +9,7 @@
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "dateformat": "^4.6.3",
-    "express": "^4.17.2",
+    "express": "^4.22.0",
     "fs": "0.0.1-security",
     "js-yaml": "^4.1.0",
     "log4js": "^6.3.0",
